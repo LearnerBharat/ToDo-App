@@ -14,7 +14,7 @@ Technologies Used
     Frontend: React.js
     Backend: Node.js, Express.js
     Database: PostgreSQL
-    Styling: CSS, Bootstrap (or any other UI library used)
+    Styling: CSS, Bootstrap
 
 Usage
 
